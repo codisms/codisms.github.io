@@ -1,3 +1,5 @@
+# Getting Started
+
 Last week in the Q&A session, it was mentioned that having a dev environment set up for immediate use would be ideal.  This would include language like Node, Go, and Python, at a minimum.  Maintaining an environment such as this can become a pain with various updates and having to deal with multiple version of things.
 
 I described how I create an environment per project so that I can keep my projects separated and easily handle version issues.  I do this by having an AWS instance per project, but an alternative is to have a VM per project.  I also run everything in Ubuntu so that my environment more closely matches that which the project is likely to run on.  No more issues of “it works on my Mac but not on the server” (or vice versa).  Also, for you Windows people, you don’t have to start over or fight getting some tool to work.

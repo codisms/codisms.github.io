@@ -1,3 +1,9 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
 # Getting Started
 
 Last week in the Q&A session, it was mentioned that having a dev environment set up for immediate use would be ideal.  This would include language like Node, Go, and Python, at a minimum.  Maintaining an environment such as this can become a pain with various updates and having to deal with multiple version of things.
